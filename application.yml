@@ -1,0 +1,8 @@
+my:
+    greeting: Hello World Varun from config server
+    list:
+        values: One,Two,Three,Four
+db:
+    connection: "connection string here from config server"
+    host: 127.0.0.3
+    port: 1200     
